@@ -85,7 +85,7 @@
       
       ```
 
-13. 修改**word_demo.py** 内第111行代码， 将 `df.to_csv('/Users/yif/Desktop/demo.csv')`  其路径修改成本地桌面路径：```df.to_csv('本地路径')``   （确认有权限写入的路径）
+13. 修改**word_demo.py** 内第111行代码， 将 `df.to_csv('/Users/yif/Desktop/demo.csv')`  其路径修改成本地桌面路径：`df.to_csv('本地路径')`  （确认有权限写入的路径）
 
 14. 修改**word_demo.py** 内的函数```create_csv_from_example``代码中关于数据库的配置
 
